@@ -1,0 +1,15 @@
+
+
+.container{
+    border: 3px solid fuchsia;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box{
+    font-size: 3ex;
+    font-weight: 700;
+    border: 3px solid peru;
+    width: 100px;
+    height: 100px;
+}
